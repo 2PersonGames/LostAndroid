@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects
+END
+LevelBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/LevelBuilder.cs
+END
+BorderBlockObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/BorderBlockObject.cs
+END
+GameObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/GameObject.cs
+END
+CollidableObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/CollidableObject.cs
+END
+AlarmObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/AlarmObject.cs
+END
+PlayerObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/PlayerObject.cs
+END
+EnemyObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CGP/!svn/ver/22/GamesDesign/LostAndroid/Objects/EnemyObject.cs
+END

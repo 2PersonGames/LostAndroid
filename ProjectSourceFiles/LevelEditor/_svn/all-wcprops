@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor
+END
+GameThumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/GameThumbnail.png
+END
+Game.ico
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/Game.ico
+END
+BorderBlockObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/BorderBlockObject.cs
+END
+GameObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/GameObject.cs
+END
+CollidableObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/CollidableObject.cs
+END
+Editor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/Editor.cs
+END
+Level.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/Level.cs
+END
+program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/program.cs
+END
+LevelEditor.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/LevelEditor.csproj
+END
+Game1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/CGP/!svn/ver/22/GamesDesign/LevelEditor/Game1.cs
+END

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1a", "Assignment1a\Assignment1a.csproj", "{984DA44D-3C2B-47F6-ABF3-21E5166DD0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor", "LevelEditor\LevelEditor.csproj", "{D931E00E-3069-4DED-8150-A55895F92446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984DA44D-3C2B-47F6-ABF3-21E5166DD0EC}.Debug|x86.ActiveCfg = Debug|x86
+		{984DA44D-3C2B-47F6-ABF3-21E5166DD0EC}.Debug|x86.Build.0 = Debug|x86
+		{984DA44D-3C2B-47F6-ABF3-21E5166DD0EC}.Release|x86.ActiveCfg = Release|x86
+		{984DA44D-3C2B-47F6-ABF3-21E5166DD0EC}.Release|x86.Build.0 = Release|x86
+		{9AD9FE1E-90A8-486F-AE42-E2709B0AB3C2}.Debug|x86.ActiveCfg = Debug|x86
+		{9AD9FE1E-90A8-486F-AE42-E2709B0AB3C2}.Release|x86.ActiveCfg = Release|x86
+		{D931E00E-3069-4DED-8150-A55895F92446}.Debug|x86.ActiveCfg = Debug|x86
+		{D931E00E-3069-4DED-8150-A55895F92446}.Debug|x86.Build.0 = Debug|x86
+		{D931E00E-3069-4DED-8150-A55895F92446}.Release|x86.ActiveCfg = Release|x86
+		{D931E00E-3069-4DED-8150-A55895F92446}.Release|x86.Build.0 = Release|x86
+		{80219983-F057-464A-8CE8-024C0E1425A6}.Debug|x86.ActiveCfg = Debug|x86
+		{80219983-F057-464A-8CE8-024C0E1425A6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
